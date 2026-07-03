@@ -16,14 +16,6 @@
 </div>
 
 
-<h3 align="center">
-  :fireworks: Live demo :fireworks:
-</h3>
-
-<p align="center">
-  <b>[Heroku retracted its free tier, therefore all my demos are unavailable until further notice.]</b>
-</p>
-
 <!--
 <p align="center">
   https://books-api-bsski.herokuapp.com/
