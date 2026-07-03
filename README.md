@@ -85,7 +85,7 @@ Room for improvement:
 
 ## :construction_worker: Author
 
-- [@BSski](https://www.github.com/BSski)
+- [@bartswe](https://www.github.com/bartswe)
 
 
 ## :unlock: License
