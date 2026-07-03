@@ -79,9 +79,6 @@ Room for improvement:
 - sorting books with incomplete date as if they were written 1st of January, but displaying year only, instead of the current solution,
 - more tests.
 
-## :telephone_receiver: Contact
-- <contact.bsski@gmail.com>
-
 
 ## :construction_worker: Author
 
